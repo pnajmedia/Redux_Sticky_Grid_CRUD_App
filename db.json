@@ -1,0 +1,84 @@
+{
+  "HCPs": [
+    {
+      "id": "1",
+      "sample": "FARXIGA01",
+      "sapleSource": "Veeva",
+      "Qty": "7",
+      "SignDate": "26-08-2020",
+      "status": "AOD",
+      "HCPName": "Kelley Klark",
+      "Owner": "Mark Finkle"
+    },
+    {
+      "id": "2",
+      "sample": "FARXIGA02",
+      "sapleSource": "Veeva",
+      "Qty": "8",
+      "SignDate": "21-08-2020",
+      "status": "AOD",
+      "HCPName": "Kelley Klark",
+      "Owner": "Mark Finkle"
+    },
+    {
+      "id": "3",
+      "sample": "FARXIGA03",
+      "sapleSource": "Veeva",
+      "Qty": "9",
+      "SignDate": "20-10-2020",
+      "status": "Rejected",
+      "HCPName": "Kelley Klark",
+      "Owner": "Mark Finkle"
+    },
+    {
+      "id": "4",
+      "sample": "FARXIGA04",
+      "sapleSource": "Veeva",
+      "Qty": "4",
+      "SignDate": "01-11-2020",
+      "status": "AOD",
+      "HCPName": "Jeff Lane",
+      "Owner": "Myce Towel"
+    },
+    {
+      "id": "5",
+      "sample": "FARXIGA05",
+      "sapleSource": "Veeva",
+      "Qty": "3",
+      "SignDate": "05-09-2020",
+      "status": "Submitted",
+      "HCPName": "Kelley Klark",
+      "Owner": "Mark Finkle"
+    },
+    {
+      "id": "6",
+      "sample": "FARXIGA06",
+      "sapleSource": "Veeva",
+      "Qty": "2",
+      "SignDate": "05-12-2020",
+      "status": "AOD",
+      "HCPName": "Kelley Lane",
+      "Owner": "Lock Lock"
+    },
+    {
+      "id": "7",
+      "sample": "FARXIGA07",
+      "sapleSource": "Veeva",
+      "Qty": "6",
+      "SignDate": "30-09-2020",
+      "status": "AOD",
+      "HCPName": "Kelley Klark",
+      "Owner": "Mark Lovk"
+    },
+    {
+      "id": "8",
+      "sample": "FARXIGA08",
+      "sapleSource": "Veeva",
+      "Qty": "7",
+      "SignDate": "29-11-2020",
+      "status": "Rejected",
+      "HCPName": "Jeff Klark",
+      "Owner": "Mark Finkle"
+    }
+  ]
+}
